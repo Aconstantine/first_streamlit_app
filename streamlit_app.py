@@ -1,3 +1,3 @@
 import streamlit
 
-streamlit.title("Suck it")
+streamlit.title('Suck it')
